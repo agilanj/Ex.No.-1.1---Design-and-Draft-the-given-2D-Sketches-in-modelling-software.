@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![EXE 1 1 AGILAN](https://github.com/user-attachments/assets/1b49f763-1f1f-48db-bc58-7322b487744f)
+![exe 1 1 AGILAN](https://github.com/user-attachments/assets/767123aa-ac15-4779-9510-79daa625bb79)
+
 
 
 
